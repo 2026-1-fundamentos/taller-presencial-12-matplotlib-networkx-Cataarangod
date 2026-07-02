@@ -1,4 +1,5 @@
-pytest
-matplotlib
-networkx
+ipykernel
 pandas
+pytest
+scikit-learn
+xlrd
